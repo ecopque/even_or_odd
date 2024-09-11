@@ -11,4 +11,4 @@ except ValueError:
     else:
         print(str('Digite um número inteiro válido!'))
 
-# Testando tipagem str, int, etc.
+# https://linktr.ee/edsoncopque
